@@ -1,0 +1,4 @@
+Cannot generate into C:\Users\Tanya Krym\CLionProjects\untitled1
+It is already used for project \cygdrive\c\Users\Tanya Krym\CLionProjects\untitled1
+
+Please either delete it manually or select another generation directory
